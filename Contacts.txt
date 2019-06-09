@@ -1,0 +1,7 @@
+Anakin,Skywalker,79 127 30 00,null
+Dark,Vador,79 127 30 01,null
+Yoda, ,79 127 30 04,null
+Dark,Sidius,79 127 30 05,null
+Dark,Maul,79 127 30 07,null
+Obiwan,Kenobi,79 127 30 02,null
+Mass,Windu,79 127 30 03,/Users/alex/eclipse-workspace/Z_SmartPhone2/Pictures/mace windu.jpg
